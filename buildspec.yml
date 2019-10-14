@@ -1,10 +1,7 @@
 version: 0.2
 
-run-as: sanhe
-
 phases:
   build:
-    run-as: sanhe-build
     commands:
       - echo $HOME
       - echo "Hello World"
