@@ -7,5 +7,6 @@ phases:
     runtime-versions:
       python: 3.7
     commands:
+      - cat ./README.rst
       - echo $HOME
       - echo "Hello World"
