@@ -1,4 +1,4 @@
-.. image:: https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiRzZWVEo0UWlTRGtRTDBDa0VVekptcXhoOXdndjlCeHNPSnhRem9rcVc3dTF4dk5hWlBUamYzd3lIY2RPNHU1Q2htV3MrSVBUdkpwOHNWQzBKVWF1WUJ3PSIsIml2UGFyYW1ldGVyU3BlYyI6InBBZ2FNUXN0RXliRjNRL2EiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master
+.. image:: https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiOUFVUFRRbzVFS2FTdkZHY1dDMnp2TlpMeVRLWjBqUmZ3ajI5clQyTTNGK3ZHTGtCTW5Rb1QrbDQ3STV2STFpaERMbWhaTWtuZWRuTXU3bkVXQ2pPTjc4PSIsIml2UGFyYW1ldGVyU3BlYyI6ImJ6VmlFUmVaaExCU25iUHUiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master
 
 How to Use AWS Code Pipeline with a Public GitHub Repo
 ==============================================================================
