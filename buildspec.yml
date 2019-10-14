@@ -2,6 +2,7 @@ version: 0.2
 
 phases:
   install:
+    run-as: sanhe
     runtime-versions:
       python: 3.7
     commands:
